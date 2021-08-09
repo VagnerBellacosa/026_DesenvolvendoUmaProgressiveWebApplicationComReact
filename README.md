@@ -8,3 +8,11 @@ Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando
 ### Bruno Carneiro
 Front-End Architect, Paketá Crédito
 
+
+### Instalando e criando o ambiente
+
+npx create-react-app covid19-dio
+
+npm install react-app-rewired --save-dev
+
+
